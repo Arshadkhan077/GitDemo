@@ -40,6 +40,7 @@ public class introMainclass {
 		System.out.println(driver.getCurrentUrl());
 		//driver.close();
 		//driver.quit();
+		System.out.println("new commits again");
 	}
 
 }
