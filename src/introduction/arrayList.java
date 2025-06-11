@@ -30,6 +30,7 @@ public class arrayList {
 		List<String> converted=Arrays.asList(array);
 		System.out.println(converted.contains(" jagan"));
 		
+		System.out.print("new commits");
 	}
 
 }
