@@ -31,6 +31,10 @@ public class arrayList {
 		System.out.println(converted.contains(" jagan"));
 		
 		System.out.print("new commits");
+		System.out.print("new commits");
+		System.out.print("new commits");
+		System.out.print("new commits");
+		System.out.print("new commits");
 	}
 
 }
